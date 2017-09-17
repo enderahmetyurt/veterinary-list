@@ -18,11 +18,92 @@
       "email":""
    },
    {
+      "name":"Evcil Dostum Veteriner Kliniği",
+      "address":"Örnek Mah. G-42 Sok. No:6",
+      "city":"İstanbul",
+      "town":"Ataşehir",
+      "telephone":"0216 566 08 92",
+      "website":"",
+      "email":""
+   },
+   {
       "name":"Avcılar Veteriner Kliniği",
       "address":"Plaj Yolu Sok. No.6",
       "city":"İstanbul",
       "town":"Avcılar",
       "telephone":"0212 695 44 10",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Firuzköy Veteriner Kliniği",
+      "address":"Hasan Önel Cad. No:57",
+      "city":"İstanbul",
+      "town":"Avcılar",
+      "telephone":"0212 690 30 84",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Golden Veteriner Kliniği",
+      "address":"Plaj Yolu No:15/1",
+      "city":"İstanbul",
+      "town":"Avcılar",
+      "telephone":"0212 591 05 64",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Medicus Veteriner Kliniği",
+      "address":"Reşitpaşa Cad. No:98",
+      "city":"İstanbul",
+      "town":"Avcılar",
+      "telephone":"0212 509 23 19",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Minion Veteriner Kliniği",
+      "address":"Dr. Sadık Ahmet Cad. No:258/F",
+      "city":"İstanbul",
+      "town":"Avcılar",
+      "telephone":"0212 591 81 73",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"New-Vet Veteriner Kliniği",
+      "address":"Cumhuriyet",
+      "city":"İstanbul",
+      "town":"Avcılar",
+      "telephone":"0212 676 77 65",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pet Dünyası Veteriner Kliniği",
+      "address":"Cumhuriyet Cad. No:46",
+      "city":"İstanbul",
+      "town":"Avcılar",
+      "telephone":"0212 694 02 54",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Saha Veteriner Kliniği",
+      "address":"Ambarlı Mah. Cumhuriyet Cad. No:26",
+      "city":"İstanbul",
+      "town":"Avcılar",
+      "telephone":"0212 694 94 02",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Süper Veteriner Kliniği",
+      "address":"Çiğdem",
+      "city":"İstanbul",
+      "town":"Avcılar",
+      "telephone":"0212 694 51 22",
       "website":"",
       "email":""
    },
@@ -45,11 +126,281 @@
       "email":""
    },
    {
+      "name":"Bahçelievler Veteriner Kliniği",
+      "address":"Talatpaşa Bulvarı, Ali Reşat Paşa Sok. No:9/3",
+      "city":"İstanbul",
+      "town":"Bahçelievler",
+      "telephone":"0212 554 24 82",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Candy Veteriner Kliniği",
+      "address":"Ferit Selimpaşa Cad. Demet Sok. Çevre Apt.",
+      "city":"İstanbul",
+      "town":"Bahçelievler",
+      "telephone":"0212 502 06 20",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Dost Veteriner Kliniği",
+      "address":"Çörekotu Okul",
+      "city":"İstanbul",
+      "town":"Bahçelievler",
+      "telephone":"0212 557 02 01",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Healhy Pet Veteriner Kliniği",
+      "address":"Fevzi Çakmak Cad. Uygun Apt. No:21/2",
+      "city":"İstanbul",
+      "town":"Bahçelievler",
+      "telephone":"0212 441 18 17",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Panda Vet Veteriner Kliniği",
+      "address":"İzzettin Çalışlar Cad. No:5/1",
+      "city":"İstanbul",
+      "town":"Bahçelievler",
+      "telephone":"0212 502 87 08",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Yaşam Veteriner Kliniği",
+      "address":"Ünverdi Amiral Nejdet Uran",
+      "city":"İstanbul",
+      "town":"Bahçelievler",
+      "telephone":"0212 556 13 88",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Yenibosna Veteriner Kliniği",
+      "address":"Y.Beyazıt Cad. No:205",
+      "city":"İstanbul",
+      "town":"Bahçelievler",
+      "telephone":"0212 451 06 37",
+      "website":"",
+      "email":""
+   },
+   {
       "name":"Animal Health Center",
       "address":"Zuhuratbaba Mah. Rauf Yekta Sok. No:14",
       "city":"İstanbul",
       "town":"Bakırköy",
       "telephone":"0212 571 83 04",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Ataköy Sevgi Veteriner Kliniği",
+      "address":"Ataköy 7-8 Kısım, Martı Sit. L-13-B No:11",
+      "city":"İstanbul",
+      "town":"Bakırköy",
+      "telephone":"0212 661 44 80",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Ataköy Veteriner Kliniği",
+      "address":"Ataköy 1.Kısım Sporcu Sok.",
+      "city":"İstanbul",
+      "town":"Bakırköy",
+      "telephone":"0212 583 10 06",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Bakırköy Veteriner Kliniği",
+      "address":"Cevizlik Mah. İstanbul Cad. Hamam Sok. No:24/1",
+      "city":"İstanbul",
+      "town":"Bakırköy",
+      "telephone":"0212 542 92 88",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Bakırköy Veteriner Kliniği",
+      "address":"Kartaltepe Mah. Başarı Sok. No:17",
+      "city":"İstanbul",
+      "town":"Bakırköy",
+      "telephone":"0212 483 17 10",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Benek Veteriner Kliniği",
+      "address":"Zuhuratbaba  Mah. Vankulu Sok.",
+      "city":"İstanbul",
+      "town":"Bakırköy",
+      "telephone":"0212 660 69 02",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Doğuş Veteriner Kliniği",
+      "address":"Ümraniye Yeşilköy Sarıyakup",
+      "city":"İstanbul",
+      "town":"Bakırköy",
+      "telephone":"0212 574 04 00",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Elif Veteriner Kliniği",
+      "address":"Ataköy 4.Kısım Çarşısı",
+      "city":"İstanbul",
+      "town":"Bakırköy",
+      "telephone":"0212 661 25 04",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Family Veteriner Kliniği",
+      "address":"Bahçesaray Sok. No:6",
+      "city":"İstanbul",
+      "town":"Bakırköy",
+      "telephone":"0212 542 08 07",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Greenpet Veteriner Kliniği",
+      "address":"Halkalı Cad. No:50 Yeşilköy",
+      "city":"İstanbul",
+      "town":"Bakırköy",
+      "telephone":"0212 662 22 92",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Keima Veteriner Kliniği",
+      "address":"Osmaniye Mah. Çobançeşme Sok. No:4",
+      "city":"İstanbul",
+      "town":"Bakırköy",
+      "telephone":"0212 660 81 36",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Medicine Veteriner Kliniği",
+      "address":"Yeşilköy, Mahmut Şevket Paşa",
+      "city":"İstanbul",
+      "town":"Bakırköy",
+      "telephone":"0212 574 17 92",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Minik Kalpler Veteriner Kliniği",
+      "address":"Kartaltepe Mah. Yeni Cad. No:12/A",
+      "city":"İstanbul",
+      "town":"Bakırköy",
+      "telephone":"0212 660 20 45",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Özgür Veteriner Kliniği",
+      "address":"Yeşilköy, Ziya Erdem Cad. No:14/1",
+      "city":"İstanbul",
+      "town":"Bakırköy",
+      "telephone":"0212 662 60 30",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pet Care Veteriner Kliniği",
+      "address":"Bostan Sok. No:34/1 Yeşilköy",
+      "city":"İstanbul",
+      "town":"Bakırköy",
+      "telephone":"0212 662 73 76",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pet Line Veteriner Kliniği",
+      "address":"Zuhuratbaba Mah. Yücetarla Cad. No:62",
+      "city":"İstanbul",
+      "town":"Bakırköy",
+      "telephone":"0212 660 08 69",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pet Park Veteriner Kliniği",
+      "address":"Yunus Nadi Sok. No:32 Soysal Apt. No:4",
+      "city":"İstanbul",
+      "town":"Bakırköy",
+      "telephone":"0212 660 40 37",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Petek Veteriner Kliniği",
+      "address":"Sakızağacı Mah. Heyet Sok. No:22/A",
+      "city":"İstanbul",
+      "town":"Bakırköy",
+      "telephone":"0212 570 40 81",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pupy Veteriner Kliniği",
+      "address":"Ataköy 7-8.Kısım Yosun18 No:137",
+      "city":"İstanbul",
+      "town":"Bakırköy",
+      "telephone":"0212 560 40 08",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Seçkin Veteriner Kliniği",
+      "address":"Cevizlik Mah. İstanbul Cad. Hamam Sok.",
+      "city":"İstanbul",
+      "town":"Bakırköy",
+      "telephone":"0212 583 77 23",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Smarty Veteriner Kliniği",
+      "address":"Kartaltepe Mah. İncirli Cad. Ahu Sok.",
+      "city":"İstanbul",
+      "town":"Bakırköy",
+      "telephone":"0212 583 13 60",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Şenlikköy Veteriner Kliniği",
+      "address":"Florya, Şenlikköy",
+      "city":"İstanbul",
+      "town":"Bakırköy",
+      "telephone":"0212 580 78 78",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Yeşilköy Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İstanbul",
+      "town":"Bakırköy",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Yeşilyurt Veteriner Kliniği",
+      "address":"Yeşilyurt, Ekin Sok. Seyran Apt. No:29",
+      "city":"İstanbul",
+      "town":"Bakırköy",
+      "telephone":"0212 663 94 37",
       "website":"",
       "email":""
    },
@@ -63,11 +414,119 @@
       "email":""
    },
    {
+      "name":"Bahçeşehir Veteriner Kliniği",
+      "address":"Defne 4, Villa 9/B",
+      "city":"İstanbul",
+      "town":"Başakşehir",
+      "telephone":"0212 608 09 21",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Başakşehir Veteriner Kliniği",
+      "address":"4.Etap 2.Kısım S32 Villa",
+      "city":"İstanbul",
+      "town":"Başakşehir",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Boğazköy Veteriner Kliniği",
+      "address":"Bahçeşehir 2.Kısım Mah. Boğazköy Mevkii, Koşuyolu Hoşseda Sit. F Giriş No:2",
+      "city":"İstanbul",
+      "town":"Başakşehir",
+      "telephone":"0212 607 09 39",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Gözde Veteriner Kliniği",
+      "address":"Bahçeşehir Defne 04 Villa 07",
+      "city":"İstanbul",
+      "town":"Başakşehir",
+      "telephone":"0212 672 27 44",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Güner Veteriner Kliniği",
+      "address":"Sığırcık Sok. Badem 05, Villa 12/B",
+      "city":"İstanbul",
+      "town":"Başakşehir",
+      "telephone":"0212 608 04 32",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Mert Veteriner Kliniği",
+      "address":"İstiklal Cad. No:57",
+      "city":"İstanbul",
+      "town":"Başakşehir",
+      "telephone":"0212 691 18 21",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Organize Veteriner Kliniği",
+      "address":"İkitelli Organize San. Böl. Triko Center Sit. 9M Blok. No:506",
+      "city":"İstanbul",
+      "town":"Başakşehir",
+      "telephone":"0212 549 63 18",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Ovacık Veteriner Kliniği",
+      "address":"İstiklal Cad. No:261/D",
+      "city":"İstanbul",
+      "town":"Başakşehir",
+      "telephone":"0212 691 12 48",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Patiler Veteriner Kliniği",
+      "address":"Bahçeşehir 2.Kısım Boğazköy 1.Cad. Çalışkan Karıncalar Sit. L-2 D Blok No:2",
+      "city":"İstanbul",
+      "town":"Başakşehir",
+      "telephone":"0212 607 32 44",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Patti Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İstanbul",
+      "town":"Başakşehir",
+      "telephone":"0212 607 17 00",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Three R Veteriner Kliniği",
+      "address":"2.Kısım, Rumeli Cad. Verde Molino Avm. Nilüfer Katı",
+      "city":"İstanbul",
+      "town":"Başakşehir",
+      "telephone":"0212 607 24 55",
+      "website":"",
+      "email":""
+   },
+   {
       "name":"Kronik Veteriner Kliniği",
       "address":"Eski Edirne Asfaltı No:379B",
       "city":"İstanbul",
       "town":"Bayrampaşa",
       "telephone":"0212 479 44 42",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pet Address Veteriner Kliniği",
+      "address":"Yenidoğan Mah. Atışalanı Cad. No:3",
+      "city":"İstanbul",
+      "town":"Bayrampaşa",
+      "telephone":"0212 613 78 78",
       "website":"",
       "email":""
    },
@@ -81,11 +540,425 @@
       "email":""
    },
    {
+      "name":"Animal Doctors Veteriner Kliniği",
+      "address":"Ortaköy, Muallim Naci Işık Apt. No:39/3",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 261 51 22",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Animate Veteriner Kliniği",
+      "address":"3.Levent, Sülün, 12 Aralık",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 282 38 38",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Arı Veteriner Kliniği",
+      "address":"4.Gazeteciler Sit. Ebulula Cad. 3. Levent",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 281 73 54",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Barbaros Veteriner Kliniği",
+      "address":"Cihannüma Mah. Babaros Bulvarı Bostanveli Sok. No:10/A",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 227 36 77",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Bebek Veteriner Kliniği",
+      "address":"Bebek, Manolya",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 263 42 93",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Beşiktaş Veteriner Kliniği",
+      "address":"Ihlamurdere, Mısırbahçe",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 259 31 88",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Candy Veteriner Kliniği",
+      "address":"Yıldız Posta Cad. Süleyman Bey Sok. No:10/B Gayrettepe",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 288 24 41",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Dog&Cat Veteriner Kliniği",
+      "address":"Kırbaç Sok. No:31/D",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 263 43 29",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Elephant Veteriner Kliniği",
+      "address":"Levent, Ebulula Mardin Cad. 4.Gazeteciler Sit.",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 281 03 96",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Etiler Veteriner Kliniği",
+      "address":"Akatlar, Zeytinoğlu Cad. Murat Sok. No:8",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 351 97 38",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Evren Veteriner Kliniği",
+      "address":"1.Levent, Nispetiye Mah. Birlik Sok. No:24/1",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 280 60 50",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Felis Veteriner Kliniği",
+      "address":"Etiler, Seher Yıldızı Sok.",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 287 81 83",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Hayat Veteriner Kliniği",
+      "address":"Ortaköy, Mecidiye Mah. M.Saadettin",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Ju-En Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Maçka Veteriner Kliniği",
+      "address":"Nişantaşı Spor Refik Osman Top Sok. Baykal Apt.",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Nişantaşı Veteriner Kliniği",
+      "address":"Nişantaşı, Vali Konağı Cad. Akkavak",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 230 69 01",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Ortaköy Veteriner Kliniği",
+      "address":"Ortaköy, Dereboyu, Lozan",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 236 23 73",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pan Veteriner Kliniği",
+      "address":"Ortaköy, Dereboyu",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 261 06 77",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pati-Pata Veteriner Kliniği",
+      "address":"Etiler, Nispetiye Yıldız Çiçeği",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 257 00 41",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pet Port Veteriner Kliniği",
+      "address":"Zeytinoğlu Cad. No:8 Banka Evleri A1 Blok D:2",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 352 80 08",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pet Services Veteriner Kliniği",
+      "address":"Gayrettepe, Süleymanbey",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 288 24 41",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Petist Veteriner Kliniği",
+      "address":"Ortaköy, Dereboyu Cad. Işık Sok. No:2/4",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 213 11 32",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Petvet Veteriner Kliniği",
+      "address":"Dikilitaş Mah. Emirhan Cad. No:93-D",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 236 23 11",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pupilla Veteriner Kliniği",
+      "address":"Etiler, Garanti Pasajı, Yanarsu",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 257 17 93",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Terapist Veteriner Tıp Merkezi",
+      "address":"Tepecik Yolu Alkent Site AVM'si No:13/36 Etiler",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 351 60 45",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Taurus Veteriner Polikliniği",
+      "address":"Barbaros Bul. Abbasağa Sok. No:5/B",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 236 93 87",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Ulus Veteriner Kliniği",
+      "address":"Kör Kadı Sok. Güzel Kon. Sit. C Blok No:2",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 287 17 37",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vet Plus Veteriner Kliniği",
+      "address":"Barboros Bulvarı İ.B.A. Blokları No: 24/1A Balmumcu",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 216 45 46",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vet Station Veteriner Kliniği",
+      "address":"Bebek, Küçük Bebek No:16/4 D:3",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 263 18 29",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Yeşil Park Veteriner Kliniği",
+      "address":"Cihannüma Ressam Hamdi Bey",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Yuvam Veteriner Kliniği",
+      "address":"Vişnezade Mah. Hüsrevgerede Kul Apt.",
+      "city":"İstanbul",
+      "town":"Beşiktaş",
+      "telephone":"0212 227 29 10",
+      "website":"",
+      "email":""
+   },
+   {
       "name":"Acarkent  Veteriner Kliniği",
       "address":"Acarkent 1.Kısım 3.Cadde 12.Sok. Villa T 11",
       "city":"İstanbul",
       "town":"Beykoz",
       "telephone":"0216 485 00 02",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Altınoluk Veteriner Kliniği",
+      "address":"Bahri Yaşar Yılmaz Cad. No:11/B",
+      "city":"İstanbul",
+      "town":"Beykoz",
+      "telephone":"0216 485 32 12",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Amazon Veteriner Kliniği",
+      "address":"Anadolu Hisarı Körfez",
+      "city":"İstanbul",
+      "town":"Beykoz",
+      "telephone":"0216 332 24 33",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Beykoz Veteriner Kliniği",
+      "address":"Merkez Fevzi Paşa Mezarlık Üstü",
+      "city":"İstanbul",
+      "town":"Beykoz",
+      "telephone":"0216 323 92 83",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Cumhuriyet Veteriner Kliniği",
+      "address":"Bozhane Cad. No:1 Bozhane Köyü",
+      "city":"İstanbul",
+      "town":"Beykoz",
+      "telephone":"0216 434 52 43",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Çavuşbaşı Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İstanbul",
+      "town":"Beykoz",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Dost Veteriner Kliniği",
+      "address":"Kavacık Seval",
+      "city":"İstanbul",
+      "town":"Beykoz",
+      "telephone":"0216 465 63 44",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Göksu Veteriner Kliniği",
+      "address":"Anadolu Hisarı Göztepe Şakayık Göksü Evleri A48 B",
+      "city":"İstanbul",
+      "town":"Beykoz",
+      "telephone":"0216 465 21 30",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Gönen Veteriner Kliniği",
+      "address":"İncirköy Sahip Molla",
+      "city":"İstanbul",
+      "town":"Beykoz",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Green Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İstanbul",
+      "town":"Beykoz",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Hiss Veteriner Kliniği",
+      "address":"Cumhuriyet Cad. No:187/A",
+      "city":"İstanbul",
+      "town":"Beykoz",
+      "telephone":"0216 479 02 02",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"İshaklı Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İstanbul",
+      "town":"Beykoz",
+      "telephone":"0216 434 57 32",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Kanlıca Veteriner Kliniği",
+      "address":"Kanlıca Mah. Çubuklu Cad. No:28",
+      "city":"İstanbul",
+      "town":"Beykoz",
+      "telephone":"0216 413 18 82",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pet Health Veteriner Kliniği",
+      "address":"İncirköy Polonez Yolu No:83",
+      "city":"İstanbul",
+      "town":"Beykoz",
+      "telephone":"0216 322 76 76",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Tier Veteriner Kliniği",
+      "address":"Görele Köy, Fatih Sultan Mehmet Cad. No:107/A",
+      "city":"İstanbul",
+      "town":"Beykoz",
+      "telephone":"0216 485 02 27",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Yılmaz Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İstanbul",
+      "town":"Beykoz",
+      "telephone":"0216 434 52 11",
       "website":"",
       "email":""
    },
@@ -99,11 +972,110 @@
       "email":""
    },
    {
+      "name":"Büyükşehir Veteriner Kliniği",
+      "address":"Büyükşehir Mah. B-16 Blok No:1",
+      "city":"İstanbul",
+      "town":"Beylikdüzü",
+      "telephone":"0212 872 54 44",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Elif Veteriner Kliniği",
+      "address":"Cumhuriyet Cad. İmamoğlu 1 Sit. A Blok No:32",
+      "city":"İstanbul",
+      "town":"Beylikdüzü",
+      "telephone":"0212 871 12 17",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Gold Veteriner Kliniği",
+      "address":"Enver Adakan Cad. Zigana Evleri Doğu İş Mer. B3\r\nBeylik Pazarı Civarı",
+      "city":"İstanbul",
+      "town":"Beylikdüzü",
+      "telephone":"0212 871 22 21",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Park Veteriner Kliniği",
+      "address":"Yavuz Sultan Selim Bul. No:26 Paradise AVM No:35E",
+      "city":"İstanbul",
+      "town":"Beylikdüzü",
+      "telephone":"0212 855 33 03",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pet Doctors Veteriner Kliniği",
+      "address":"Adnan Kahveci Mah. Yavuz Sultan Selim Bul. Kuştepe Cad.\r\nSimakent AVM No:13",
+      "city":"İstanbul",
+      "town":"Beylikdüzü",
+      "telephone":"0212 855 61 31",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Petmania Veteriner Kliniği",
+      "address":"Barış Mah. Hasan Han Cad.",
+      "city":"İstanbul",
+      "town":"Beylikdüzü",
+      "telephone":"0212 873 93 23",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Sultplus Veteriner Kliniği",
+      "address":"E.Adakan Cad. Güven Emek Sit. A3 Blok No:5",
+      "city":"İstanbul",
+      "town":"Beylikdüzü",
+      "telephone":"0212 873 00 20",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Veteriner Medical Park",
+      "address":"Adnan Kahveci Mah. Uludağ Cad. No:6/1 Beykent",
+      "city":"İstanbul",
+      "town":"Beylikdüzü",
+      "telephone":"0212 876 51 90",
+      "website":"",
+      "email":""
+   },
+   {
       "name":"Anipoli Veteriner Kliniği",
       "address":"Akarsu Cad. Havyar Sok. No:4 Cihangir",
       "city":"İstanbul",
       "town":"Beyoğlu",
       "telephone":"0212 244 66 94",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Cihangir Veteriner Kliniği",
+      "address":"Kılıç Ali Paşa Mah. Coşkun Sok. No:12/1 Cihangir",
+      "city":"İstanbul",
+      "town":"Beyoğlu",
+      "telephone":"0212 293 79 93",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Papsi Veteriner Kliniği",
+      "address":"Güneşli Sokak No:29 Cihangir",
+      "city":"İstanbul",
+      "town":"Beyoğlu",
+      "telephone":"0212 293 46 72",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vet Center Veteriner Kliniği",
+      "address":"Sıraselviler Cad. Bakraç Sok. No:24/A",
+      "city":"İstanbul",
+      "town":"Beyoğlu",
+      "telephone":"0212 244 72 97",
       "website":"",
       "email":""
    },
@@ -117,11 +1089,209 @@
       "email":""
    },
    {
+      "name":"Aşil Veteriner Kliniği",
+      "address":"Fatih Mah. Gazi Mustafa Kemal Cad. No:7/2",
+      "city":"İstanbul",
+      "town":"Büyükçekmece",
+      "telephone":"0212 883 93 45",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Atrium Veteriner Kliniği",
+      "address":"Sinanoba, 1.Kısım Atrium",
+      "city":"İstanbul",
+      "town":"Büyükçekmece",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Beykent-Doğa Veteriner Kliniği",
+      "address":"Özlem Cad. No:1/1",
+      "city":"İstanbul",
+      "town":"Büyükçekmece",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Beyvet Veteriner Kliniği",
+      "address":"Mimarsinan, Batıköy, M.Kemal Bulvarı M-102 Blok No:3",
+      "city":"İstanbul",
+      "town":"Büyükçekmece",
+      "telephone":"0212 863 10 68",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Bony Veteriner Kliniği",
+      "address":"Albatros, Hasan Şevket Sümbül",
+      "city":"İstanbul",
+      "town":"Büyükçekmece",
+      "telephone":"0212 881 92 80",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Damasko Veteriner Kliniği",
+      "address":"M.Kemal Bulvarı,  Marine Park Evleri C-5 Mimaroba",
+      "city":"İstanbul",
+      "town":"Büyükçekmece",
+      "telephone":"0212 863 20 93",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Empati Veteriner Kliniği",
+      "address":"M.Kemal Bulvarı, Onur Sit.",
+      "city":"İstanbul",
+      "town":"Büyükçekmece",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Kumburgaz Veteriner Kliniği",
+      "address":"E5 Üzeri No:127",
+      "city":"İstanbul",
+      "town":"Büyükçekmece",
+      "telephone":"0212 731 20 30",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Kumburgaz Cadde Veteriner Kliniği",
+      "address":"E-5 Karayolu İstanbul Cd No:64, Kumburgaz",
+      "city":"İstanbul",
+      "town":"Büyükçekmece",
+      "telephone":"0212 868 39 80",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"K-9 VIP Veteriner Kliniği",
+      "address":"Batıköy Mah. Asude Sok. \r\nNo:4/B",
+      "city":"İstanbul",
+      "town":"Büyükçekmece",
+      "telephone":"0212 868 45 89",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Oba Veteriner Kliniği",
+      "address":"Batıköy mah.Mustafa Kemal Bulvarı Villa 2/30 B Mimaroba",
+      "city":"İstanbul",
+      "town":"Büyükçekmece",
+      "telephone":"0212 864 37 64",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Sempati Veteriner Kliniği",
+      "address":"Batıköy Villaları, Fevzi Çakmak, Tayyibe Hanım",
+      "city":"İstanbul",
+      "town":"Büyükçekmece",
+      "telephone":"0212 863 03 66",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Uğur Veteriner Kliniği",
+      "address":"Turgut Özal Bulvarı",
+      "city":"İstanbul",
+      "town":"Büyükçekmece",
+      "telephone":"0212 882 70 29",
+      "website":"",
+      "email":""
+   },
+   {
       "name":"Ayvalı Veteriner Kliniği",
       "address":"Ferhatpaşa, Atatürk Cad. Taç Apt. No:3",
       "city":"İstanbul",
       "town":"Çatalca",
       "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Barış Veteriner Kliniği",
+      "address":"Kaleiçin Hayra Kuyaş",
+      "city":"İstanbul",
+      "town":"Çatalca",
+      "telephone":"0212 789 52 08",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Çatalca Veteriner Kliniği",
+      "address":"Ferhatpaşa 1.Kısım, 3.Cadde",
+      "city":"İstanbul",
+      "town":"Çatalca",
+      "telephone":"0212 789 53 23",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Deva Veteriner Kliniği",
+      "address":"Köy Meydanı, Cami Karşısı No:121",
+      "city":"İstanbul",
+      "town":"Çatalca",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Gülbahçe Veteriner Kliniği",
+      "address":"Germe Mevkii, Baklalı Köyü, Durusu No:108",
+      "city":"İstanbul",
+      "town":"Çatalca",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Karacaköy Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İstanbul",
+      "town":"Çatalca",
+      "telephone":"0212 763 41 53",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Kestanelik Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İstanbul",
+      "town":"Çatalca",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Sevgi Veteriner Kliniği",
+      "address":"Ovayenice Köyü",
+      "city":"İstanbul",
+      "town":"Çatalca",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Uzmanlar Veteriner Kliniği",
+      "address":"Ferhatpaşa Atatürk",
+      "city":"İstanbul",
+      "town":"Çatalca",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vet-Ser Veteriner Kliniği",
+      "address":"Ferhatpaşa Oktay Öztürk Pasajı",
+      "city":"İstanbul",
+      "town":"Çatalca",
+      "telephone":"0212 789 69 69",
       "website":"",
       "email":""
    },
@@ -135,11 +1305,119 @@
       "email":""
    },
    {
+      "name":"Çekmeköy Minik Patiler",
+      "address":"Çavuşbaşı Cad. Altonkoza Evleri A-3 Blok No:4",
+      "city":"İstanbul",
+      "town":"Çekmeköy",
+      "telephone":"0216 640 57 57",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Deniz Veteriner Kliniği",
+      "address":"Beykoz Yolu No:48/2",
+      "city":"İstanbul",
+      "town":"Çekmeköy",
+      "telephone":"0216 435 82 80",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Kasaba Veteriner Kliniği",
+      "address":"Kasaba Evleri 1 Ada 71.Parsel No:1",
+      "city":"İstanbul",
+      "town":"Çekmeköy",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Reşadiye Veteriner Kliniği",
+      "address":"Cumhuriyet Cad. No:28 Reşadiye Köyü",
+      "city":"İstanbul",
+      "town":"Çekmeköy",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Şans Veteriner Kliniği",
+      "address":"Mimar Sinan Mah. Çavuşbaşı Cad. Özdemir Sok. No:40/A",
+      "city":"İstanbul",
+      "town":"Çekmeköy",
+      "telephone":"0216 642 97 07",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Taşdelen Veteriner Kliniği",
+      "address":"Sultançiftliği Mah. Atatürk Cad. Ekşioğlu Çiftlik Evleri Altı No:3/D",
+      "city":"İstanbul",
+      "town":"Çekmeköy",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vet Check Veteriner Kliniği",
+      "address":"Mimar Sinan Mah. Yeşil Kayalar Cad. No:44/A",
+      "city":"İstanbul",
+      "town":"Çekmeköy",
+      "telephone":"0216 641 88 38",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vet Çizmeli Kedi Veteriner Polikliniği",
+      "address":"Mimar Sinan Mah. Ethem Sok. No:10/1",
+      "city":"İstanbul",
+      "town":"Çekmeköy",
+      "telephone":"0216 612 89 41",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vetpoint Veteriner Kliniği",
+      "address":"Mimar Sinan Mah. Çavuşbaşı Cad. Özge Sok. No:5/1",
+      "city":"İstanbul",
+      "town":"Çekmeköy",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vet's Clinic Veteriner Polikliniği",
+      "address":"Çamlık Mah. Şahinbey Cad. No:88/3A",
+      "city":"İstanbul",
+      "town":"Çekmeköy",
+      "telephone":"0216 642 91 81",
+      "website":"",
+      "email":""
+   },
+   {
       "name":"Gizmovet Veteriner Kliniği",
       "address":"Açelya Evleri, Enverpaşa, 173.Ada E32 Blok No:1, Esenkent",
       "city":"İstanbul",
       "town":"Esenyurt",
       "telephone":"0212 672 76 14",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Kitty&Puppy Veteriner Kliniği",
+      "address":"Ardıçlı Mah. Ispartakule Cad. No:148",
+      "city":"İstanbul",
+      "town":"Esenyurt",
+      "telephone":"0212 450 22 12",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vetonya Veteriner Kliniği",
+      "address":"Talatpaşa Mah. 1050 Sok. NTowers Sit. Sosyal Tesisler\r\nC Blok No:12",
+      "city":"İstanbul",
+      "town":"Esenyurt",
+      "telephone":"Belirtilmemiş",
       "website":"",
       "email":""
    },
@@ -153,11 +1431,146 @@
       "email":""
    },
    {
+      "name":"Berilyum Veteriner Kliniği",
+      "address":"Kemerburgaz İstanbul Cad. Arcadium Çar. No:26 A-3 Göktürk",
+      "city":"İstanbul",
+      "town":"Eyüp",
+      "telephone":"0212 322 20 93",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Çizmeli Kedi Veteriner Kliniği",
+      "address":"İstanbul Cad. Mesa Stüdio Plaza No:37 Göktürk",
+      "city":"İstanbul",
+      "town":"Eyüp",
+      "telephone":"0212 322 36 27",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Elmayra Veteriner Kliniği",
+      "address":"Çamlık Cad. No:38",
+      "city":"İstanbul",
+      "town":"Eyüp",
+      "telephone":"0212 239 61 57",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Göktürk Veteriner Kliniği",
+      "address":"İstanbul Cad. No:48/67 Beyaz Konutlar Sit. Kemer",
+      "city":"İstanbul",
+      "town":"Eyüp",
+      "telephone":"0212 322 78 22",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Haliç Veteriner Kliniği",
+      "address":"Vardar Bulvarı No:19 Kat:3",
+      "city":"İstanbul",
+      "town":"Eyüp",
+      "telephone":"0212 626 50 40",
+      "website":"",
+      "email":""
+   },
+   {
       "name":"Alp Veteriner Kliniği",
       "address":"Ereğli Mah. Topkapı Millet, Şehremini Cami",
       "city":"İstanbul",
       "town":"Fatih",
       "telephone":"0212 632 30 62",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"CatDog Veteriner Kliniği",
+      "address":"Fındıkzade Kızılelma No:38/A",
+      "city":"İstanbul",
+      "town":"Fatih",
+      "telephone":"0212 530 38 24",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Fındıkzade Veteriner Kliniği",
+      "address":"Ördek Kasap Fındıkzade Oğuzhan Akkoyunlu",
+      "city":"İstanbul",
+      "town":"Fatih",
+      "telephone":"0212 531 13 24",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Fatih Veteriner Kliniği",
+      "address":"Macar Kardeşler Cad. Dülgeroğlu Sok. No:5/1 İtfaiye",
+      "city":"İstanbul",
+      "town":"Fatih",
+      "telephone":"0212 532 15 14",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Kızılelma Veteriner Kliniği",
+      "address":"Seyitömer Fındıkzade Emrullah Efendi",
+      "city":"İstanbul",
+      "town":"Fatih",
+      "telephone":"0212 585 65 82",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Patiler Veteriner Kliniği",
+      "address":"Küçükhamam Seyit Ömer Mah. Cevdetpaşa Cad. No:12/1-B",
+      "city":"İstanbul",
+      "town":"Fatih",
+      "telephone":"0212 586 36 47",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Sevi Veteriner Kliniği",
+      "address":"Kıztaşı Cad. Açıklar Sok. No:28/1",
+      "city":"İstanbul",
+      "town":"Fatih",
+      "telephone":"0212 521 82 48",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Topkapı Yaşam Veteriner Kliniği",
+      "address":"Millet Cad. No:168 Çapa",
+      "city":"İstanbul",
+      "town":"Fatih",
+      "telephone":"0212 621 46 06",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Topkapı Veteriner Kliniği",
+      "address":"Çapa Millet No:168",
+      "city":"İstanbul",
+      "town":"Fatih",
+      "telephone":"0212 621 46 06",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Yaşam Veteriner Kliniği",
+      "address":"Beyazıtağa Topkapı Paşaodaları",
+      "city":"İstanbul",
+      "town":"Fatih",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Yıldız Veteriner Kliniği",
+      "address":"Hocaüveyz Mah. Hocaefendi Sok. No:44/A",
+      "city":"İstanbul",
+      "town":"Fatih",
+      "telephone":"0212 525 46 03",
       "website":"",
       "email":""
    },
@@ -171,6 +1584,33 @@
       "email":""
    },
    {
+      "name":"Megavet Veteriner Kliniği",
+      "address":"Yiğit Sok. No:5B",
+      "city":"İstanbul",
+      "town":"Gaziosmanpaşa",
+      "telephone":"0212 545 45 15",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Onur Veteriner Kliniği",
+      "address":"Devlet",
+      "city":"İstanbul",
+      "town":"Gaziosmanpaşa",
+      "telephone":"0212 528 10 81",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Özel G.O.P. Veteriner Kliniği",
+      "address":"Merkez Kuruçeşme Güneş",
+      "city":"İstanbul",
+      "town":"Gaziosmanpaşa",
+      "telephone":"0212 417 88 92",
+      "website":"",
+      "email":""
+   },
+   {
       "name":"Beethoven Veteriner Kliniği",
       "address":"A.Nafiz Gürman Mah. Altay Sok. No:5",
       "city":"İstanbul",
@@ -180,11 +1620,776 @@
       "email":""
    },
    {
+      "name":"Merter Veteriner Kliniği",
+      "address":"A.Nafiz Gürman Mah. Ali Rıza Gürcan Cad. No:5/B",
+      "city":"İstanbul",
+      "town":"Güngören",
+      "telephone":"0212 642 70 72",
+      "website":"",
+      "email":""
+   },
+   {
       "name":"Acıbadem Veteriner Kliniği",
       "address":"Acıbadem, Necipbey",
       "city":"İstanbul",
       "town":"Kadıköy",
       "telephone":"0216 326 24 53",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Akdeniz Veteriner Kliniği",
+      "address":"Fenerbahçe Mah. Hacımehmet Sok. No:9/8",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 467 47 43",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"All Animal Veteriner Kliniği",
+      "address":"Feneryolu, Selamiçeşme Mah. Mazharbey",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 567 47 17",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Anaconda Veteriner Kliniği",
+      "address":"19 Mayıs Mah. Sultan Sok. İmbat Apt. No:24/6",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 360 36 06",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Animax 24 Veteriner Kliniği",
+      "address":"Bağdat Cad. Çatalçeşme Palas Apt. No:480/1",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 464 25 39",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Animo Clinic Veteriner Kliniği",
+      "address":"Suadiye Emin Ali Paşa",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 361 69 18",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Anipa Veteriner Kliniği",
+      "address":"Moda Şair Nefi",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 414 20 84",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Animalist Veteriner Kliniği",
+      "address":"Ataşehir 36. Ada Revaklı Çarşı  2-4 Çarşı No:10",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 456 74 52",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Anubis Veteriner Kliniği",
+      "address":"Caddebostan Mah. Bağdat Cad. No:293/1",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 360 01 96",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Artemis Veteriner Kliniği",
+      "address":"Güven Sok. Akçin Apt. No:4/A Merdivenköy",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 411 21 45",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"A.T.A. Veteriner Kliniği",
+      "address":"Feneryolu Mah. Mazharbey Göktepe",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 565 69 03",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Atalay Veteriner Kliniği",
+      "address":"Kazasker Sinan Ercan",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 372 02 62",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Ataşehir Veteriner Kliniği",
+      "address":"K.Bakkalköy Meriç Kamelya Çarşı",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 455 45 71",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Axis Veteriner Kliniği",
+      "address":"Hafız İmam Sok. Kaynak Apt. No:6/B/A",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 478 24 64",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Bahariye Veteriner Kliniği",
+      "address":"Bahariya Osmanağa Kalfaoğlu No:21",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 336 67 46",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Barış Veteriner Kliniği",
+      "address":"Fahrettin Kerim Gökay Cad. No:52 Ziverbey",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 550 00 52",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Bbç Veteriner Kliniği",
+      "address":"Yenişehir Mah. Barajyolu Cad. Mevlana Sok. No:22 Ataşehir",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 456 36 06",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Botanik Veteriner Kliniği",
+      "address":"K.Bakkalköy Ataşehir Botanik Çarşı",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 456 04 18",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Can Dostum Veteriner Kliniği",
+      "address":"Gazi Muhtarpaşa Cad. Hatboyu Sok. No:46/12 Feneryolu",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 411 79 05",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Cat&Dog Veteriner Kliniği",
+      "address":"Bayar Cad. Anadolu Sit. No:38/B Kozyatağı",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Cats-Doğa Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Cebeci Veteriner Kliniği",
+      "address":"Kazasker 19 Mayıs Şakacı Sok. No:33/A",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 445 23 99",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Center Veteriner Kliniği",
+      "address":"Ayşeçavuş Cad. 33-1 Suadiye",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 373 85 13  \r\n0216 384 61 55",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Denizatı Veteriner Kliniği",
+      "address":"Göztepe F.Kerim Gökay Kaya",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 567 44 25",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Dino Veteriner Kliniği",
+      "address":"Göztepe Tütüncü Mehmet Efendi",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 363 67 51",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Doğa Veteriner Kliniği",
+      "address":"Suadiye Bağdat",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 385 07 55",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"D'Park Veteriner Kliniği",
+      "address":"Caferağa Hasırcıbaşı Süleymanpaşa No:78/B",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 336 90 78",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Dr. Gönen Kaya Veteriner Kliniği",
+      "address":"Orta Sok. No:4/3",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 386 30 30",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Evcil Dostum Veteriner Kliniği",
+      "address":"Göztepe Fahrettin Kerim gökay Demirci Faik Sok. No:15",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 567 10 29",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Ezgi Pet Kliniği",
+      "address":"Üst Bostancı Vukela",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 410 85 99",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Feneryolu Veteriner Kliniği",
+      "address":"Bağdat Cad. No:154 Feneryolu",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 369 69 23",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Garfield Veteriner Kliniği",
+      "address":"Feneryolu Mah. Gedikli Sok. B Blok No:11",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 418 85 65",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Gizli Bahçe Veteriner Kliniği",
+      "address":"Mehmet Akfan Sok. No:63/A Koşuyolu",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 545 89 55",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Göztepe Veteriner Kliniği",
+      "address":"Göztepe Fahrettin Kerim Gökay Cad. No:259",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 411 65 20",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Hayvan Bakım ve Tedavi Kliniği",
+      "address":"Gözenç Sok. Arzu Apt. No:6/C",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 386 49 03",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Hera Veteriner Kliniği",
+      "address":"Moda Caferağa Sair Latifi Sok. No:1",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 345 63 16",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"İçerenköy Veteriner Kliniği",
+      "address":"İçerönköy Mah. Kayışdağı Yolu Cad. No:55/1",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 576 90 98",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"İstanbul Veteriner Kliniği",
+      "address":"Caddebostan Bağdat",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 350 11 24",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"İstasyon Veteriner Kliniği",
+      "address":"Üst Bostancı Cami",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 384 56 08",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Jenner Veteriner Kliniği",
+      "address":"Osmanağa Mah. Yoğurtçu Park Cad. No:56/A",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Kadıköy Veteriner Kliniği",
+      "address":"Kadıköy Yoğurtçu No:56",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Koşuyolu Veteriner Kliniği",
+      "address":"Koşuyolu Halili",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 326 75 67",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Kozyatağı Veteriner Kliniği",
+      "address":"Kozyatağı İnönü Samko Sit. M-6 B Blok No:1",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 416 41 97",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Ködi Veteriner Kliniği",
+      "address":"Erenköy Caddebostan Bağdat Çamfıstığı",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 478 07 67",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"La Fontaine Veteriner Kliniği",
+      "address":"Tuğlacıbaşı Kuyubaşı Şefizade",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 348 52 02",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Lucky-Pet Veteriner Kliniği",
+      "address":"Sahrayıcedit Osman Nuri Sengin Sok. No:9/1",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 386 77 52",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Marmara Veteriner Kliniği",
+      "address":"Feneryolu Bahçeler Sok. Mine Apt. No:3/2",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 347 49 42",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Minouvet Veteriner Kliniği",
+      "address":"Acıbadem Cad. No:111/1 Tan Apt.",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 428 06 41",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Monovet Veteriner Kliniği",
+      "address":"Kozyatağı Mah. Hacı Muhtar Sok. No:10/A",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 380 58 58",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Mosita Veteriner Kliniği",
+      "address":"Fenerbahçe Gülüzar",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 336 12 30",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"My-Vet Veteriner Kliniği",
+      "address":"Kozyatağı Leylak Sok. Leylak Apt. No:2/3",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 464 53 71",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Patiş Veteriner Kliniği",
+      "address":"Erenköy Şemsettin Günaltay",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pet Art Veteriner Kliniği",
+      "address":"Erenköy Ethem Efendi Fırın Sok. Civan Apt. No:12",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 369 20 60",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pet Medicana Veteriner Kliniği",
+      "address":"Şemsettin Günaltay Cad. Şakacı Sok. No:75/B Kazasker",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 445 74 34",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pet Nature Veteriner Kliniği",
+      "address":"Rasimpaşa Halitağa Elmalı Çeşme Sok. No:10/A",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 330 97 40",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pet Way Veteriner Kliniği",
+      "address":"Kozyatağı Marmara",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 464 95 62",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Petformans Veteriner Kliniği",
+      "address":"Suadiye Bağdat Cad. Suadiye Cami Sok. No:17/2",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 410 04 01",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Peties Vets Veteriner Kliniği",
+      "address":"Bağdat Cad. Beyazkasya Sok No:10(8/B)",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Petosphere Veteriner Kliniği",
+      "address":"Itri Dede Sok. Hasan Pınar Apt. No:1/4 Kızıltoprak",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pet Veteriner Kliniği",
+      "address":"Acıbadem",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Petville Veteriner Kliniği",
+      "address":"Mehmet Şevki Paşa Cad. No:9/B",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 372 71 46",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pluto Veteriner Kliniği",
+      "address":"Ethem Efendi Cad. Hatboyu Sok. No:14 Erenköy",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 385 04 78",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Reanimal Veteriner Kliniği",
+      "address":"İnönü Cad. No:38/4",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 355 29 95",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Reha Salgın Veteriner Kliniği",
+      "address":"Ethem Efendi Cad. No:21/C",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 360 15 50",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"RV Veteriner Kliniği",
+      "address":"19 Mayıs Mah. Kozyatağı İnönü Cad. Şelale Sok. No:1",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 358 99 36",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Safari Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Suadiye Veteriner Kliniği",
+      "address":"Kitapçı Sok. No:3/1",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Turuncu Veteriner Kliniği",
+      "address":"Mahmut Yesari Sok. No:85/A Koşuyolu",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 340 69 25",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Tümer Veteriner Kliniği",
+      "address":"Caddebostan Kadirağa No:22/2",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 368 90 97",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Uğur Veteriner Kliniği",
+      "address":"Hakkı Manço Sok. Derya Apt. No:31/8 Ziverbey",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 346 31 36",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vegas Veteriner Kliniği",
+      "address":"Bostancı Menekşe Sok. No:13/A-1",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 658 61 70",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vet Life Veteriner Kliniği",
+      "address":"Suadiye, Selamiçeşme Bağdat",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vet Akdeniz Veteriner Kliniği",
+      "address":"Fenerbahçe Hacı Mehmet No:8",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 368 96 84",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vet Animalia Veteriner Kliniği",
+      "address":"Çiftehavuzlar, Fenerbahçe Cemil Topuzlu",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 360 91 77",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vetdora Veteriner Kliniği",
+      "address":"Göztepe Tütüncü Mehmet Efendi Cad. Rıdvan Paşa Sok. No:25/A",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 411 33 70",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vetelite Veteriner Kliniği",
+      "address":"Suadiye Kuzu Sok. Ersoy Sahil Sit. Köşem Apt. No:10",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 478 15 95",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vethouse Veteriner Kliniği",
+      "address":"Acıbadem",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 428 56 57",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vetist Veteriner Kliniği",
+      "address":"Caddebostan Plajyolu Sok. No:37/1",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 335 15 65",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vetland Veteriner Kliniği",
+      "address":"Kozyatağı, Duranbey İş Hanı, E5 Üstü, Değirmen",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 410 36 80",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vet-Line Veteriner Kliniği",
+      "address":"Şaşkınbakkal Bağdat Noter",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 386 83 70",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vetmedika Veteriner Kliniği",
+      "address":"Rıdvanpaşa Sok. Sadıkoğlu Apt. No:15/B",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 360 22 92",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vetobur Veteriner Kliniği",
+      "address":"Şenesevler Şemsettin Günaltay",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 464 82 02",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vet 24 Veteriner Kliniği",
+      "address":"Göztepe Tütüncü Mehmet Efendi Oramiral Kemal Kayaçam",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 386 31 52",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vitalis Veteriner Kliniği",
+      "address":"Bostancı Dr.Kemal Akgüder",
+      "city":"İstanbul",
+      "town":"Kadıköy",
+      "telephone":"0216 362 82 06",
       "website":"",
       "email":""
    },
@@ -207,11 +2412,155 @@
       "email":""
    },
    {
+      "name":"Çınar Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İstanbul",
+      "town":"Kartal",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Doğa Veteriner Kliniği",
+      "address":"Yakacık Yeni Mah. Samandıra Cad. No:40/A",
+      "city":"İstanbul",
+      "town":"Kartal",
+      "telephone":"0216 309 80 15",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Dragos Veteriner Kliniği",
+      "address":"Cevizli Orhantepe Orhangazi No:1",
+      "city":"İstanbul",
+      "town":"Kartal",
+      "telephone":"0216 305 60 68",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Kartal Veteriner Kliniği",
+      "address":"Petrol İş Mah. Üsküdar Cad. Görüş Apt. No:62/1",
+      "city":"İstanbul",
+      "town":"Kartal",
+      "telephone":"0216 350 93 00",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pera Veteriner Kliniği",
+      "address":"Bostancı Ali Nihat Tarlan Cad. Ebru Apt. No:66/4 (68/A)",
+      "city":"İstanbul",
+      "town":"Kartal",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Petevin Veteriner Kliniği",
+      "address":"Atatürk Bulvarı",
+      "city":"İstanbul",
+      "town":"Kartal",
+      "telephone":"0216 387 30 34",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Rahmanlar Veteriner Kliniği",
+      "address":"Rahmanlar, Atalar, Ergenekon",
+      "city":"İstanbul",
+      "town":"Kartal",
+      "telephone":"0216 488 30 34",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Toprakyol Veteriner Kliniği",
+      "address":"Petrol İş Mah. Kaman",
+      "city":"İstanbul",
+      "town":"Kartal",
+      "telephone":"0216 389 94 52",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Veda Veteriner Kliniği",
+      "address":"Uğur Mumcu Yakacık Toros Sit. Barış Apt.",
+      "city":"İstanbul",
+      "town":"Kartal",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
       "name":"Cennet Veteriner Kliniği",
       "address":"Cennet Mah. Alev Apt. A Blok Hürriyet",
       "city":"İstanbul",
       "town":"Küçükçekmece",
       "telephone":"0212 541 13 95",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Daisy Veteriner Kliniği",
+      "address":"Yeni Mah. Mimar Sinan Cad. No:21/A",
+      "city":"İstanbul",
+      "town":"Küçükçekmece",
+      "telephone":"0212 598 46 45",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Funny Pets Veteriner Kliniği",
+      "address":"Atakent, 1.Etap F4 İş Merk. No:2",
+      "city":"İstanbul",
+      "town":"Küçükçekmece",
+      "telephone":"0212 472 41 60",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Mecidiyeköy Veteriner Kliniği",
+      "address":"1. Etap Sutek B 07 Giriş 4",
+      "city":"İstanbul",
+      "town":"Küçükçekmece",
+      "telephone":"0212 697 38 62",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"North Veteriner Kliniği",
+      "address":"Atakent, Kırlangıç Sok. Atacity AVM No:16",
+      "city":"İstanbul",
+      "town":"Küçükçekmece",
+      "telephone":"0212 548 00 21",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Ovacık Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İstanbul",
+      "town":"Küçükçekmece",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pati Veteriner Polikliniği",
+      "address":"Atakent Mah. 2.Etap Gül Sok. Park Merkez Çarşı",
+      "city":"İstanbul",
+      "town":"Küçükçekmece",
+      "telephone":"0212 471 16 75",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vets & Pets Veteriner Kliniği",
+      "address":"Atatürk Mahallesi 10. Sokak  No:11 Halkalı ",
+      "city":"İstanbul",
+      "town":"Küçükçekmece",
+      "telephone":"0212 494 36 98",
       "website":"",
       "email":""
    },
@@ -225,11 +2574,164 @@
       "email":""
    },
    {
+      "name":"Altıntepe Veteriner Kliniği",
+      "address":"Küçükyalı Altıntepe Bağdat Cad.",
+      "city":"İstanbul",
+      "town":"Maltepe",
+      "telephone":"0212 388 62 21",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Arkadaş Veteriner Kliniği",
+      "address":"Küçükyalı Altıntepe Bağdat Cad. Ger Apt. No:26",
+      "city":"İstanbul",
+      "town":"Maltepe",
+      "telephone":"0212 367 26 38",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Bilge Veteriner Kliniği",
+      "address":"Feyzullah Mah. Serap Cad. No:51/A",
+      "city":"İstanbul",
+      "town":"Maltepe",
+      "telephone":"0212 370 33 64",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Boncuk Veteriner Kliniği",
+      "address":"Bağlarbaşı Mah. Feyzullah Cad. Gümüş Sok. No:2/8",
+      "city":"İstanbul",
+      "town":"Maltepe",
+      "telephone":"0212 352 58 09",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Can Dostu Veteriner Kliniği",
+      "address":"Çınar Mah. Koşarlar Sit. Tunç Apt. No:163/9 Küçükyalı",
+      "city":"İstanbul",
+      "town":"Maltepe",
+      "telephone":"0212 366 96 55",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Dost Pati Veteriner Kliniği",
+      "address":"Altıntepe Sırmakeş Sok. No:25/1",
+      "city":"İstanbul",
+      "town":"Maltepe",
+      "telephone":"0212 388 29 10",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"İdealtepe Veteriner Kliniği",
+      "address":"Bağdat Cad. No:210/3 İdealtepe",
+      "city":"İstanbul",
+      "town":"Maltepe",
+      "telephone":"0212 549 27 23",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Maltepe Veteriner Kliniği",
+      "address":"Bağdat Cad. Adalı Sok. Yayla  İş Merk. No:9/1",
+      "city":"İstanbul",
+      "town":"Maltepe",
+      "telephone":"0212 383 71 77",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pedaliza Veteriner Kliniği",
+      "address":"Küçükyalı Merkez Mah. Barbaros Sok. No:3/6",
+      "city":"İstanbul",
+      "town":"Maltepe",
+      "telephone":"0212 367 42 00",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pet Veteriner Kliniği",
+      "address":"Bağdat Kaptan Atmaca Apt. No:6/1",
+      "city":"İstanbul",
+      "town":"Maltepe",
+      "telephone":"0212 441 88 63",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Teknovet Veteriner Kliniği",
+      "address":"Bağlarbaşı Mah.Feyzullah Cad. 2.İlkokul Sok. No:29/C",
+      "city":"İstanbul",
+      "town":"Maltepe",
+      "telephone":"0212 442 28 42",
+      "website":"",
+      "email":""
+   },
+   {
       "name":"Anadolu Veteriner Kliniği",
       "address":"Anadolu Cad. No:4",
       "city":"İstanbul",
       "town":"Pendik",
       "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Asya Veteriner Kliniği",
+      "address":"Ankara Cad. Akın Apt.",
+      "city":"İstanbul",
+      "town":"Pendik",
+      "telephone":"0216 390 93 17",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Çetiner Veteriner Kliniği",
+      "address":"Batı Mah. Ankara Cad.",
+      "city":"İstanbul",
+      "town":"Pendik",
+      "telephone":"0216 330 36 95",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Dünya Veteriner Kliniği",
+      "address":"Harmandere Mah. Reyhan Cad. Cemre Sok. No:6/1\r\nVia Port Arkası",
+      "city":"İstanbul",
+      "town":"Pendik",
+      "telephone":"0216 684 08 48",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Gelişim Veteriner Kliniği",
+      "address":"Kurtköy Mah. Ankara Cad. No:303/B",
+      "city":"İstanbul",
+      "town":"Pendik",
+      "telephone":"0216 378 92 66",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pembe Patiler Veteriner Kliniği",
+      "address":"Aydos Çamlık Mah. Cahit Zarifoğlu Sok. Aydos Çarşı No:2",
+      "city":"İstanbul",
+      "town":"Pendik",
+      "telephone":"0216 646 16 23",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vetar Veteriner Kliniği",
+      "address":"Batı Mah. Vişne Sok. No:28/A",
+      "city":"İstanbul",
+      "town":"Pendik",
+      "telephone":"0216 390 00 31",
       "website":"",
       "email":""
    },
@@ -243,6 +2745,33 @@
       "email":""
    },
    {
+      "name":"Pet Doctor Veteriner Kliniği",
+      "address":"Sevenler Cad. No:57",
+      "city":"İstanbul",
+      "town":"Sancaktepe",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Sancaktepe Veteriner Kliniği",
+      "address":"Abdurrahmangazi Mah. Osmangazi Cad. No:75/B",
+      "city":"İstanbul",
+      "town":"Sancaktepe",
+      "telephone":"0216 622 70 02",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vetterapi Veteriner Kliniği",
+      "address":"Meclis Mah. Atatürk Cad. Dap Yapı Centro Futura No:107/D",
+      "city":"İstanbul",
+      "town":"Sancaktepe",
+      "telephone":"0212 648 22 75",
+      "website":"",
+      "email":""
+   },
+   {
       "name":"Animal Park Veteriner Kliniği",
       "address":"Zekariyeköy Basın Yayın Sit. Tarakçı Cad. No:71/N",
       "city":"İstanbul",
@@ -252,11 +2781,281 @@
       "email":""
    },
    {
+      "name":"Animalium Veteriner Kliniği",
+      "address":"Ferahevler Adnan Kahveci No:110",
+      "city":"İstanbul",
+      "town":"Sarıyer",
+      "telephone":"0212 299 63 49",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Bahçeköy Veteriner Kliniği",
+      "address":"Bahçeköy Kemer Mareşal Fevzi Çakmak No:4/A",
+      "city":"İstanbul",
+      "town":"Sarıyer",
+      "telephone":"0212 226 26 74",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Erdil Veteriner Kliniği",
+      "address":"Köybaşı Cad. Yasemen Sok. No:8",
+      "city":"İstanbul",
+      "town":"Sarıyer",
+      "telephone":"0212 223 45 60",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Horsepital Veteriner Kliniği",
+      "address":"İstanbul Atlı Spor Maslak Binicilik Tesisleri G Blok No:16",
+      "city":"İstanbul",
+      "town":"Sarıyer",
+      "telephone":"0212 328 28 56",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Leon Veteriner Kliniği",
+      "address":"Emirgan Boyacıköy Hekimata",
+      "city":"İstanbul",
+      "town":"Sarıyer",
+      "telephone":"0212 229 19 23",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Maya Veteriner Kliniği",
+      "address":"Vişne 2 Mah. 4.Cad. M5 Blok No:2",
+      "city":"İstanbul",
+      "town":"Sarıyer",
+      "telephone":"0212 202 71 55",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pet Center Veteriner Kliniği",
+      "address":"Köybaşı Cad. Keramibey Sok. No:8/A Yeniköy",
+      "city":"İstanbul",
+      "town":"Sarıyer",
+      "telephone":"0212 223 33 88",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pet Limanı Veteriner Kliniği",
+      "address":"İstinye Cad. Balyemez Sok. No:3",
+      "city":"İstanbul",
+      "town":"Sarıyer",
+      "telephone":"0212 323 60 63",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Petivet Veteriner Kliniği",
+      "address":"Kilyos Cad. Kızılelma Sok. No:4",
+      "city":"İstanbul",
+      "town":"Sarıyer",
+      "telephone":"0212 342 41 42",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pet-Life Veteriner Kliniği",
+      "address":"Tarabya Dereiçi",
+      "city":"İstanbul",
+      "town":"Sarıyer",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pets Care Veteriner Kliniği",
+      "address":"Maden Kilyos No:1",
+      "city":"İstanbul",
+      "town":"Sarıyer",
+      "telephone":"0212 242 62 85",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pet's World Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İstanbul",
+      "town":"Sarıyer",
+      "telephone":"0212 277 22 11",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Sarıyer Veteriner Kliniği",
+      "address":"Şehit Mithat Yılmaz Cad. No:110/A",
+      "city":"İstanbul",
+      "town":"Sarıyer",
+      "telephone":"0212 242 62 85",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Sarıyer Veteriner Kliniği",
+      "address":"Kilyos Cad. Gülümser Sok. No:2/2",
+      "city":"İstanbul",
+      "town":"Sarıyer",
+      "telephone":"0212 342 43 49",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Semra Esen Veteriner Kliniği",
+      "address":"Uskumruköy Arıköy Taşkışla Cad. No:30",
+      "city":"İstanbul",
+      "town":"Sarıyer",
+      "telephone":"0212 203 12 25",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vet Point Veteriner Kliniği",
+      "address":"Baltalimanı Cad. No:15/1 Rumeli Hisarı",
+      "city":"İstanbul",
+      "town":"Sarıyer",
+      "telephone":"0212 323 23 17",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Veterinary Veteriner Kliniği",
+      "address":"Cumhuriyet Mah. Arabayolu Cad. Dönence Sok. No:8/D",
+      "city":"İstanbul",
+      "town":"Sarıyer",
+      "telephone":"0212 299 37 37",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Zekeriyaköy Veteriner Kliniği",
+      "address":"Garanti Koza Çarşısı, Vişne N2 Blok",
+      "city":"İstanbul",
+      "town":"Sarıyer",
+      "telephone":"0212 202 72 37",
+      "website":"",
+      "email":""
+   },
+   {
       "name":"Animal Veteriner Kliniği",
       "address":"Piripaşa Cad. Sanatkarlar",
       "city":"İstanbul",
       "town":"Silivri",
       "telephone":"0212 728 69 14",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Çiftlik Veteriner Kliniği",
+      "address":"Alibey Akgün Silivri Cad. No:1",
+      "city":"İstanbul",
+      "town":"Silivri",
+      "telephone":"0212 727 46 17",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Deliorman Veteriner Kliniği",
+      "address":"Çayırdere Köyü, Merkez Mevkii,  Atatürk Cad. No:4",
+      "city":"İstanbul",
+      "town":"Silivri",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Gazitepe Veteriner Kliniği",
+      "address":"Şahin Özer",
+      "city":"İstanbul",
+      "town":"Silivri",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Kavaklı Veteriner Kliniği",
+      "address":"Atatürk",
+      "city":"İstanbul",
+      "town":"Silivri",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Marmara Veteriner Kliniği",
+      "address":"Çayırdere Köyü, Cumhuriyet Mah. No:58/A",
+      "city":"İstanbul",
+      "town":"Silivri",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Merkez Veteriner Kliniği",
+      "address":"Pirimehmetpaşa Hasan Özvarnalı Sok. No:3",
+      "city":"İstanbul",
+      "town":"Silivri",
+      "telephone":"0212 728 70 99",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Öncü Veteriner Kliniği",
+      "address":"Fener Köyü, Havuzlu Çeşme Sok. No:15",
+      "city":"İstanbul",
+      "town":"Silivri",
+      "telephone":"0212 717 23 44",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pakel Veteriner Kliniği",
+      "address":" Kadıköy Mah. Bağlar Cad. No:2",
+      "city":"İstanbul",
+      "town":"Silivri",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Silivri Veteriner Kliniği",
+      "address":"E-5 Karayolu, Yeni Mah. İnönü Aydınlar Sok. No:8-2",
+      "city":"İstanbul",
+      "town":"Silivri",
+      "telephone":"0212 727 47 51",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Trakya Veteriner Kliniği",
+      "address":"Silivri Yolu No:4",
+      "city":"İstanbul",
+      "town":"Silivri",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Ufuk Veteriner Kliniği",
+      "address":"Büyükçavuşlu Köyü, Merkez Mah. Çavuş Sok. No:3",
+      "city":"İstanbul",
+      "town":"Silivri",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vet Dr. Veteriner Kliniği",
+      "address":"Merkez Mah. 2107.Sok No:9",
+      "city":"İstanbul",
+      "town":"Silivri",
+      "telephone":"0212 731 55 54",
       "website":"",
       "email":""
    },
@@ -279,11 +3078,155 @@
       "email":""
    },
    {
+      "name":"Şile Veteriner Kliniği",
+      "address":"Cumhuriyet Cad. No:110",
+      "city":"İstanbul",
+      "town":"Şile",
+      "telephone":"0216 710 30 29",
+      "website":"",
+      "email":""
+   },
+   {
       "name":"Animals Veteriner Kliniği",
       "address":"Ergenekon Bilgiç",
       "city":"İstanbul",
       "town":"Şişli",
       "telephone":"0212 230 91 11",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Basthet Veteriner Kliniği",
+      "address":"Sıracevizler Cad. No:49/A",
+      "city":"İstanbul",
+      "town":"Şişli",
+      "telephone":"0212 232 92 31",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Çizmeli Kedi Veteriner Kliniği",
+      "address":"Kurtuluş Cad. No:134/A",
+      "city":"İstanbul",
+      "town":"Şişli",
+      "telephone":"0212 230 77 59",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Güzelbahçe Veteriner Kliniği",
+      "address":"Valikonağı Cad. Poyracık (Müfide Kuley) Sok. No:61/1",
+      "city":"İstanbul",
+      "town":"Şişli",
+      "telephone":"0212 246 56 07",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Harbiye Veteriner Kliniği",
+      "address":"Yunusbey Sok. No:16/A",
+      "city":"İstanbul",
+      "town":"Şişli",
+      "telephone":"0212 247 97 50",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Kurtuluş Veteriner Kliniği",
+      "address":"Kurtuluş Cad. No:46-48 D:2",
+      "city":"İstanbul",
+      "town":"Şişli",
+      "telephone":"0212 225 98 57",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Nişantaşı Veteriner Kliniği",
+      "address":"Topağacı Nişantaşı Ihlamur Yolu",
+      "city":"İstanbul",
+      "town":"Şişli",
+      "telephone":"0212 234 72 92",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pelin Veteriner Kliniği",
+      "address":"Merkez Mah. Reha Yurdakul Sok. Ekser Apt. No:14/A",
+      "city":"İstanbul",
+      "town":"Şişli",
+      "telephone":"0212 219 41 36",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Petite Veteriner Kliniği",
+      "address":"Mevlüt Pehlivan Sok. Fulya",
+      "city":"İstanbul",
+      "town":"Şişli",
+      "telephone":"0212 347 97 29",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pets Only Veteriner Kliniği",
+      "address":"Teşvikiye Mah. Prof. Dr. Müfide Kuley Sok.\r\nGökçe Apt. No:17/1",
+      "city":"İstanbul",
+      "town":"Şişli",
+      "telephone":"0212 291 34 72",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Petito Veteriner Kliniği",
+      "address":"Abide-i Hürriyet Cad. Reha Yurdakul Sok. No:15/B",
+      "city":"İstanbul",
+      "town":"Şişli",
+      "telephone":"0212 241 24 69",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Şişli Veteriner Kliniği",
+      "address":"Abide-i Hürriyet Cad. Kocamansur",
+      "city":"İstanbul",
+      "town":"Şişli",
+      "telephone":"0212 241 26 24",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Veterinaria Evcil Hayvan\r\nMuayenehanesi",
+      "address":"Nişantaşı, Topağacı, Ihlamur Yolu, Güney Apt. No:83/A",
+      "city":"İstanbul",
+      "town":"Şişli",
+      "telephone":"0212 241 81 01",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Veteriner Kliniği",
+      "address":"Nişantaşı, Kuyumcu İrfan Sok. No:5",
+      "city":"İstanbul",
+      "town":"Şişli",
+      "telephone":"0212 246 31 71",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vetform Veteriner Kliniği",
+      "address":"Gülbahar Mah. Altan Erbulak Sok. No:5 Mecidiyeköy",
+      "city":"İstanbul",
+      "town":"Şişli",
+      "telephone":"0212 212 66 00",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vetmecidiyeköy Veteriner Kliniği",
+      "address":"Zertop Sok. No:12/B",
+      "city":"İstanbul",
+      "town":"Şişli",
+      "telephone":"0212 211 69 45",
       "website":"",
       "email":""
    },
@@ -297,6 +3240,60 @@
       "email":""
    },
    {
+      "name":"Animal Veteriner Kliniği",
+      "address":"Postane Mah. Barbaros Hayrettin Irmak Apt.",
+      "city":"İstanbul",
+      "town":"Tuzla",
+      "telephone":"0216 447 47 05",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Atam Veteriner Kliniği",
+      "address":"Tepeören Köyü Eski Ankara No:32",
+      "city":"İstanbul",
+      "town":"Tuzla",
+      "telephone":"0216 482 42 78",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Güven Veteriner Kliniği",
+      "address":"Tepeören Köyü, Eski Ankara Yolu No:32/1",
+      "city":"İstanbul",
+      "town":"Tuzla",
+      "telephone":"0216 304 15 14",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Kaplan Veteriner Kliniği",
+      "address":"Cami Mah. G11 Ece Apt. No:10",
+      "city":"İstanbul",
+      "town":"Tuzla",
+      "telephone":"0216 446 51 12",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Mısırlı Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İstanbul",
+      "town":"Tuzla",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pet Evin Veteriner Kliniği",
+      "address":"Aydınlı Yolu No:105",
+      "city":"İstanbul",
+      "town":"Tuzla",
+      "telephone":"0216 393 24 81",
+      "website":"",
+      "email":""
+   },
+   {
       "name":"Alemdar Veteriner Kliniği",
       "address":"Çatalmeşe, Şehit Murat",
       "city":"İstanbul",
@@ -306,11 +3303,182 @@
       "email":""
    },
    {
+      "name":"Doğa Hayvanevi Veteriner Kliniği",
+      "address":"Atatürk, Sancaklar İş Hanı, Alemdağ Medine Camisi Karşısı",
+      "city":"İstanbul",
+      "town":"Ümraniye",
+      "telephone":"0216 329 82 60",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Hiss Veteriner Kliniği",
+      "address":"Cumhuriyet, Taşdelen, Avşar",
+      "city":"İstanbul",
+      "town":"Ümraniye",
+      "telephone":"0216 434 57 47",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"İmes Veteriner Kliniği",
+      "address":"Yukarı Dudullu, İmes San.Sit. 1.Sosyal Tesisler No:38/A",
+      "city":"İstanbul",
+      "town":"Ümraniye",
+      "telephone":"0216 313 12 00",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"La Fonten Veteriner Kliniği",
+      "address":"Mimar Sinan Mah. Aydın Menderes Cad. No:24",
+      "city":"İstanbul",
+      "town":"Ümraniye",
+      "telephone":"0216 642 50 72",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Master- Vet Veteriner Kliniği",
+      "address":"Çekmeköy, Mimar Sinan Mah. Çavuşbaşı No:28/D",
+      "city":"İstanbul",
+      "town":"Ümraniye",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Oskar Veteriner Kliniği",
+      "address":"Çekmeköy, Çamlık Durağı Alemdağ Aşkın",
+      "city":"İstanbul",
+      "town":"Ümraniye",
+      "telephone":"0216 527 72 45",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Reşadiye Veteriner Kliniği",
+      "address":"Cumhuriyet",
+      "city":"İstanbul",
+      "town":"Ümraniye",
+      "telephone":"0216 434 57 47",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Şanslı Pati Veteriner Kliniği",
+      "address":"Çekmeköy, Hamidiye Mah. Barışyolu Cad. No:15/2",
+      "city":"İstanbul",
+      "town":"Ümraniye",
+      "telephone":"0216 640 28 90",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Yenişehir Veteriner Kliniği",
+      "address":"Site Mah. Kurban Sok. No:80/A",
+      "city":"İstanbul",
+      "town":"Ümraniye",
+      "telephone":"0216 533 0012",
+      "website":"",
+      "email":""
+   },
+   {
       "name":"Akademi Veteriner Kliniği",
       "address":"Kuleli Mah. Çengelköy Cad. No:42/C",
       "city":"İstanbul",
       "town":"Üsküdar",
       "telephone":"0216 422 37 88",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Akdeniz Veteriner Kliniği",
+      "address":"Beylerbeyi, Üsküdar Merkez Yalıboyu Havuzbaşı Şükrü Ulu  Apt. No:1",
+      "city":"İstanbul",
+      "town":"Üsküdar",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Ata Veteriner Kliniği",
+      "address":"Yıldırım Beyazıt Cad. Fatih Sok. No:2/A",
+      "city":"İstanbul",
+      "town":"Üsküdar",
+      "telephone":"0216 486 40 44",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Avrasya Veteriner Kliniği",
+      "address":"Ahmet Çelebi Mah. Doğancılar Cad. No:71/A",
+      "city":"İstanbul",
+      "town":"Üsküdar",
+      "telephone":"0216 492 20 57",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Dostlar Veteriner Kliniği",
+      "address":"Halk",
+      "city":"İstanbul",
+      "town":"Üsküdar",
+      "telephone":"0216 321 42 30",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Kandilli Veteriner Kliniği",
+      "address":"Kandilli, İskele Cad. No:9/A",
+      "city":"İstanbul",
+      "town":"Üsküdar",
+      "telephone":"0216 462 02 32",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pepe Veteriner Kliniği",
+      "address":"Barbaros, Mütevelli Çeşme Serçe",
+      "city":"İstanbul",
+      "town":"Üsküdar",
+      "telephone":"0216 651 52 08",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Soyak Veteriner Kliniği",
+      "address":"Libadiye, Yanık",
+      "city":"İstanbul",
+      "town":"Üsküdar",
+      "telephone":"0216 325 67 56",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"VetArt Veteriner Kliniği",
+      "address":"İcadiye Mh Cumhuriyet Cd 53/B Üsküdar",
+      "city":"İstanbul",
+      "town":"Üsküdar",
+      "telephone":"0216 553 01 12",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Veterinerim Veteriner Kliniği",
+      "address":"Selamiali, Cumhuriyet Cad. No:54/1",
+      "city":"İstanbul",
+      "town":"Üsküdar",
+      "telephone":"0216 553 12 03",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Yeditepe Veteriner Kliniği",
+      "address":"Kefçedede Mah. Tunusbağı Cad. No:51/A",
+      "city":"İstanbul",
+      "town":"Üsküdar",
+      "telephone":"Belirtilmemiş",
       "website":"",
       "email":""
    },
