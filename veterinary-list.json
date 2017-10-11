@@ -6118,5 +6118,968 @@
       "telephone":"Belirtilmemiş",
       "website":"",
       "email":""
+   },
+   {
+      "name":"Adem Ünüvar Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Aladağ",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Şafak Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Aladağ",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Bayat Veteriner Kliniği",
+      "address":"Kurtuluş No:1",
+      "city":"İzmir",
+      "town":"Bayat",
+      "telephone":"0322 491 26 73",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Özdemir Veteriner Kliniği",
+      "address":"Yenimahalle",
+      "city":"İzmir",
+      "town":"Bayat",
+      "telephone":"0322 491 31 61",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Akın Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Ceyhan",
+      "telephone":"0322 613 70 32",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Aydoğdu Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Ceyhan",
+      "telephone":"0322 654 22 33",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Çukurova Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Ceyhan",
+      "telephone":"0322 613 90 80",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Güneş Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Ceyhan",
+      "telephone":"0322 613 65 61",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Güney Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Ceyhan",
+      "telephone":"0322 612 52 93",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Karataş Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Ceyhan",
+      "telephone":"0322 611 42 06",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Mert Veteriner Kliniği",
+      "address":"Yaltır",
+      "city":"İzmir",
+      "town":"Ceyhan",
+      "telephone":"0322 613 95 74",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"189 Veteriner Kliniği",
+      "address":"Büyükkırım Arif Yaltır",
+      "city":"İzmir",
+      "town":"Ceyhan",
+      "telephone":"0322 612 38 70",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Anka Veteriner Kliniği",
+      "address":"Güzelyalı Mah. Anadolu Lisesi Cad. Mert Anıl Apt. Altı no: 14",
+      "city":"İzmir",
+      "town":"Çukurova",
+      "telephone":"0322 233 22 75",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Apex Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Çukurova",
+      "telephone":"0322 256 48 70",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Ceyhan Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Çukurova",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Deva Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Çukurova",
+      "telephone":"0322 239 20 60",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Güzelyalı Pati Veteriner Kliniği",
+      "address":"Süleyman Demirel Bulvarı Güzelyalı Mah. No:13/A",
+      "city":"İzmir",
+      "town":"Çukurova",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Karabörklü Veteriner Kliniği",
+      "address":"Salbaş Mah. Karaisalı Cad. No:42/A",
+      "city":"İzmir",
+      "town":"Çukurova",
+      "telephone":"",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Park Pet Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Çukurova",
+      "telephone":"0322 338 73 24",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pegasus Veteriner Kliniği",
+      "address":"Toros Ma. Barış Manço Bulvarı, Kuzeykent Sitesi C Blok Zemin",
+      "city":"İzmir",
+      "town":"Çukurova",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Terapi Veteriner Kliniği",
+      "address":"Turgut Özal Bulvarı Güzelyalı 123.Sok.",
+      "city":"İzmir",
+      "town":"Çukurova",
+      "telephone":"0322 351 57 66",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vipaş Veteriner Kliniği",
+      "address":"100.Yıl Mah. 85122.Sok. No:17",
+      "city":"İzmir",
+      "town":"Çukurova",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Feke Veteriner Kliniği",
+      "address":"Belediye Yanı No:31",
+      "city":"İzmir",
+      "town":"Feke",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Gürdal Veteriner Kliniği",
+      "address":"Karacaoğlan Mah. Cami Sok. No:17/A",
+      "city":"İzmir",
+      "town":"Feke",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Ahmet Yıldırım Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"İmamoğlu",
+      "telephone":"0322 982 30 97",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Aydınoğlu Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"İmamoğlu",
+      "telephone":"0322 892 30 10",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Ay-Su Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"İmamoğlu",
+      "telephone":"0322 892 21 26",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Güner Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"İmamoğlu",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"HSakan Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"İmamoğlu",
+      "telephone":"0322 892 15 16",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"İlker Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"İmamoğlu",
+      "telephone":"0322 892 31 76",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Mustafa Işık Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"İmamoğlu",
+      "telephone":"0322 891 28 11",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Özdemir Veteriner Kliniği Veteriner Kliniği",
+      "address":"Adana Cad.",
+      "city":"İzmir",
+      "town":"İmamoğlu",
+      "telephone":"0322 892 28 55",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Özvet Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"İmamoğlu",
+      "telephone":"0322 892 15 15",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Akalan Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Karaisalı",
+      "telephone":"0322 561 27 32",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Çare Veteriner Kliniği",
+      "address":"Selampınar Atatürk",
+      "city":"İzmir",
+      "town":"Karaisalı",
+      "telephone":"0322 551 34 84",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Mustafa Ünlü Kıraner Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Karaisalı",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Muzaffer Ünlü Kıraner Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Karaisalı",
+      "telephone":"0322 55128 01",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Nisan Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Karaisalı",
+      "telephone":"0322 551 22 19",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Özgen Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Karaisalı",
+      "telephone":"0322 551 31 46",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Bulut Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Karataş",
+      "telephone":"0322 681 36 74",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Karataş Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Karataş",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Seyhan Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Karataş",
+      "telephone":"0322 681 25 96",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Tuzla Veteriner Kliniği",
+      "address":"Tuzla Beldesi,Cumhuriyet Cad. No:24/E",
+      "city":"İzmir",
+      "town":"Karataş",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Ali Demir Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Kozan",
+      "telephone":"0322 515 81 21",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Atlas Veteriner Kliniği",
+      "address":"Tufanpaşa Mah. Üstün Sok. No:14/D",
+      "city":"İzmir",
+      "town":"Kozan",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Bozkurt Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Kozan",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Can Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Kozan",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Cücenoğlu Veteriner Kliniği",
+      "address":"Tufanpaşa Mah. Üstün Sok. No:20/D",
+      "city":"İzmir",
+      "town":"Kozan",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Dağlı Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Kozan",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"İlker Sarıtaş Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Kozan",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Karaloğlu Veteriner Kliniği",
+      "address":"Cumhuriyet Mah. Andıl Cad. No:53/B",
+      "city":"İzmir",
+      "town":"Kozan",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Kaymazoğlu Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Kozan",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Muhammet Özaslan Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Kozan",
+      "telephone":"0322 515 00 80",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Recep Coşman Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Kozan",
+      "telephone":"0322 515 60 38",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Rıfat Gültekin Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Kozan",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vefa Veteriner Kliniği",
+      "address":"Cumhuriyet Mah. Andıl Cad. No:63/B",
+      "city":"İzmir",
+      "town":"Kozan",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Yavuz Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Kozan",
+      "telephone":"0322 515 23 92",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Yusuf İldeniz Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Kozan",
+      "telephone":"0322 515 30 50",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Akdeniz Veteriner Kliniği",
+      "address":"Toros Mah. 18104.Sok. No:8",
+      "city":"İzmir",
+      "town":"Merkez",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Aksoy Veteriner Kliniği",
+      "address":"Salbaş Beldesi, Yeni Mah. Çatalan Cad. No:6",
+      "city":"İzmir",
+      "town":"Merkez",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Biçer Veteriner Kliniği",
+      "address":"Ulucami Mah. 25017 Sok. No:14/B",
+      "city":"İzmir",
+      "town":"Merkez",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Bay-Vet Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Sarıçam",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Çukurova Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Sarıçam",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Sarıçam Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Sarıçam",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Adana Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Seyhan",
+      "telephone":"0322 428 90 40",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Adanus Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Seyhan",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Ayna Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Seyhan",
+      "telephone":"0322 352 27 04",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Çukurova Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Seyhan",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Denizpet Veteriner Kliniği",
+      "address":"Yeşilyurt Mah. 70061 Sok. (33.Sok.) Barış Sit. B Blok",
+      "city":"İzmir",
+      "town":"Seyhan",
+      "telephone":"0322 226 43 04",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Ersular Veteriner Kliniği",
+      "address":"Türkocağı Mah. Ulus Cad. No:41",
+      "city":"İzmir",
+      "town":"Seyhan",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Eski Vilayet Veteriner Kliniği",
+      "address":"Türkocağı Mah. Manisalı Ali Bey Cad. No:12",
+      "city":"İzmir",
+      "town":"Seyhan",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Koç-Vet Veteriner Kliniği",
+      "address":"Mestanzade 2.Sok",
+      "city":"İzmir",
+      "town":"Seyhan",
+      "telephone":"0322 352 65 99",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Mega Veteriner Kliniği",
+      "address":"Güzelyalı ",
+      "city":"İzmir",
+      "town":"Seyhan",
+      "telephone":"0322 228 15 25",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pati Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Seyhan",
+      "telephone":"0322 233 59 19",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Seyhan Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Seyhan",
+      "telephone":"0322 453 50 73",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Torunoğlu Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Seyhan",
+      "telephone":"0322 239 88 08",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Türkmen Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Seyhan",
+      "telephone":"0322 352 61 23",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Vipaş Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Seyhan",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Yalçın Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Seyhan",
+      "telephone":"0322 359 05 86",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Yaşam Veteriner Kliniği",
+      "address":"Türkocağı Ulus",
+      "city":"İzmir",
+      "town":"Seyhan",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Çelik Veteriner Kliniği",
+      "address":"Cumhuriyet Saimbeyli",
+      "city":"İzmir",
+      "town":"Tufanbeyli",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Toros Veteriner Kliniği",
+      "address":"İstiklal Mah. Girne Cad. No:68",
+      "city":"İzmir",
+      "town":"Tufanbeyli",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Can Veteriner Kliniği",
+      "address":"Yeşilköy Beldesi, Köy Meydanı No:2/A",
+      "city":"İzmir",
+      "town":"Yumurtalık",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Yumurtalık Veteriner Kliniği",
+      "address":"Ayas Mah. Atatürk Cad. No:2/C",
+      "city":"İzmir",
+      "town":"Yumurtalık",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Adana Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Yüreğir",
+      "telephone":"0322 321 24 15",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Altın Veteriner Kliniği",
+      "address":"Yıldırım Beyazıt",
+      "city":"İzmir",
+      "town":"Yüreğir",
+      "telephone":"0322 341 28 22",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Çelikkol Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Yüreğir",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Deniz Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Yüreğir",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Dost Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Yüreğir",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Ercan Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Yüreğir",
+      "telephone":"0322 385 20 79",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Rüştü Karakurum Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Yüreğir",
+      "telephone":"0322 334 10 57",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Genç Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Yüreğir",
+      "telephone":"0322 235 83 75",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Hız Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Yüreğir",
+      "telephone":"0322 393 41 56",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"İlhami Gün Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Yüreğir",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"İpek Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Yüreğir",
+      "telephone":"0322 341 50 53",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"İşcan Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Yüreğir",
+      "telephone":"0322 341 45 99",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Keskin Veteriner Kliniği",
+      "address":"Sinanpaşa Kozan Çarşısı",
+      "city":"İzmir",
+      "town":"Yüreğir",
+      "telephone":"0322 323 28 78",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Köylüm Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Yüreğir",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Kupa Veteriner Kliniği",
+      "address":"Sinanpaşa Mah. Eski Köylü Pazarı No:91/I",
+      "city":"İzmir",
+      "town":"Yüreğir",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Muhittin Yeni Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Yüreğir",
+      "telephone":"0322 328 71 18",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Özdemir Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Yüreğir",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Özkır Veteriner Kliniği",
+      "address":"Sinanpaşa 18.Sok.",
+      "city":"İzmir",
+      "town":"Yüreğir",
+      "telephone":"0322 324 47 99",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Sarıçam Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Yüreğir",
+      "telephone":"0322 377 23 31",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Su-Vet Veteriner Kliniği",
+      "address":"Kozan Çarşı Köylüm Garaj",
+      "city":"İzmir",
+      "town":"Yüreğir",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Umut Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Yüreğir",
+      "telephone":"0322 373 27 81",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Yeni Yayla Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Yüreğir",
+      "telephone":"0322 377 25 00",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Yıldız Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"İzmir",
+      "town":"Yüreğir",
+      "telephone":"0322 334 03 59",
+      "website":"",
+      "email":""
    }
 ]
