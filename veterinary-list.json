@@ -7081,5 +7081,293 @@
       "telephone":"0322 334 03 59",
       "website":"",
       "email":""
+   },
+   {
+      "name":"Arslan Veteriner Kliniği",
+      "address":"Atatürk Irmak Eczanesi Karşısı",
+      "city":"Adıyaman",
+      "town":"Besni",
+      "telephone":"0416 318 23 67",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Dilek Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"Adıyaman",
+      "town":"Besni",
+      "telephone":"0416 318 24 38",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Oğul Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"Adıyaman",
+      "town":"Besni",
+      "telephone":"0416 318 31 89",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Çelikhan Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"Adıyaman",
+      "town":"Çelikhan",
+      "telephone":"0416 451 25 08",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Derman Veteriner Kliniği",
+      "address":"Zafer Mah. No:20/A Çelikhan",
+      "city":"Adıyaman",
+      "town":"Çelikhan",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Gerger Veteriner Kliniği",
+      "address":"M. Yücel Özbilgin Cad.No:44 Gerger",
+      "city":"Adıyaman",
+      "town":"Gerger",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Karahan Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"Adıyaman",
+      "town":"Gerger",
+      "telephone":"0416 431 29 83",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Göl Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"Adıyaman",
+      "town":"Gölbaşı",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Özvet Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"Adıyaman",
+      "town":"Gölbaşı",
+      "telephone":"0416 781 64 37",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Can Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"Adıyaman",
+      "town":"Kahta",
+      "telephone":"0416 725 51 12",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Derman Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"Adıyaman",
+      "town":"Kahta",
+      "telephone":"0416 216 49 98",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Kadıoğlu Veteriner Kliniği",
+      "address":"Yeni Diyarbakır Yolu  29.km",
+      "city":"Adıyaman",
+      "town":"Kahta",
+      "telephone":"0416 755 91 02",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Kaya Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"Adıyaman",
+      "town":"Kahta",
+      "telephone":"0416 725 94 00",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Mazel Veteriner Kliniği",
+      "address":"Bölükyayla Beldesi - Kahta",
+      "city":"Adıyaman",
+      "town":"Kahta",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Mihnet Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"Adıyaman",
+      "town":"Kahta",
+      "telephone":"0416 725 70 11",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Nazar Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"Adıyaman",
+      "town":"Kahta",
+      "telephone":"0416 216 49 98",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Öztürk Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"Adıyaman",
+      "town":"Kahta",
+      "telephone":"0416 216 49 98",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Şifa Veteriner Kliniği",
+      "address":"Menderes M. Kemal",
+      "city":"Adıyaman",
+      "town":"Kahta",
+      "telephone":"0416 216 49 98",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Adıyaman Veteriner Kliniği",
+      "address":"Eski Belediye Altı",
+      "city":"Adıyaman",
+      "town":"Merkez",
+      "telephone":"0416 216 49 98",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Ateş Veteriner Kliniği",
+      "address":"Musalla Mah. Atatürk Cad. No:82",
+      "city":"Adıyaman",
+      "town":"Merkez",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Bir-vet Veteriner Kliniği",
+      "address":"Eskisaray Mah. 702.Sokak No:7",
+      "city":"Adıyaman",
+      "town":"Merkez",
+      "telephone":"0416 213 38 52",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Çelik Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"Adıyaman",
+      "town":"Merkez",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Doğu-Vet Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"Adıyaman",
+      "town":"Merkez",
+      "telephone":"0416 213 46 06",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Güven Veteriner Kliniği",
+      "address":"Ulu Camii Mahallesi Atatürk",
+      "city":"Adıyaman",
+      "town":"Merkez",
+      "telephone":"0416 214 98 38",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Has 02 Veteriner Kliniği",
+      "address":"Ulu Camii Mah. Tohumcular Sok. No:9",
+      "city":"Adıyaman",
+      "town":"Merkez",
+      "telephone":"0416 216 49 98",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Merkez Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"Adıyaman",
+      "town":"Merkez",
+      "telephone":"0416 216 49 98",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Pet Klinik",
+      "address":"Belirtilmemiş",
+      "city":"Adıyaman",
+      "town":"Merkez",
+      "telephone":"0416 216 32 33",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Sağlık Veteriner Kliniği",
+      "address":"Atatürk",
+      "city":"Adıyaman",
+      "town":"Merkez",
+      "telephone":"0416 214 31 26",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Yaşam Veteriner Kliniği",
+      "address":"Musalla Mah. 1406. Sok. No:2 ",
+      "city":"Adıyaman",
+      "town":"Merkez",
+      "telephone":"Belirtilmemiş",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Yeni Samsat Veteriner Kliniği",
+      "address":"Atatürk Bulvarı Belediye Sarayı",
+      "city":"Adıyaman",
+      "town":"Samsat",
+      "telephone":"0416 216 49 98",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Sincik Veteriner Kliniği",
+      "address":"Belirtilmemiş",
+      "city":"Adıyaman",
+      "town":"Sincik",
+      "telephone":"0416 216 49 98",
+      "website":"",
+      "email":""
+   },
+   {
+      "name":"Fırat Veteriner Kliniği",
+      "address":"Ayniye Fırın",
+      "city":"Adıyaman",
+      "town":"Tut",
+      "telephone":"0416 441 31 12",
+      "website":"",
+      "email":""
    }
 ]
